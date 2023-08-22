@@ -189,8 +189,11 @@
     }
     .rev{
         margin-top: 5vw;
-        /* background-color: green;        */
+        /* background-color: green;  */
 
+    }
+    .rev .rev-text{
+        padding-left: 3vw;
     }
     .rev .rev-img img{
         width: 40%;
